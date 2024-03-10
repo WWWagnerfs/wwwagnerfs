@@ -16,7 +16,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WWWagnerfs&theme=ambient_gradient&show_icons=true" alt="Wagner GitHub stats">
 </a>
 <a href="https://github.com/WWWagnerfs/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WWWagnerfs&layout=compact&theme=ambient_gradient&langs_count=5&card_width=220" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WWWagnerfs&layout=compact&theme=ambient_gradient&langs_count=10&card_width=220" />
 </a>
 </p>
 
