@@ -1,4 +1,5 @@
 <h1 align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=wwwagnerfso&color=yellow" alt="Profile views" /> </p>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Wagner!;" />
 </h1>
 
@@ -18,6 +19,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WWWagnerfs&theme=ambient_gradient&langs_count=10&card_width=220" />
 </a>
 </p>
+
 <br>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;" />
